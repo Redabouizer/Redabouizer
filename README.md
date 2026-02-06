@@ -326,26 +326,48 @@ const redaBouizergane = {
 <summary align="center"><b>🛠️ How to set up the Snake Animation</b></summary>
 <br>
 
-1. Create a repo named `Redabouizer` (your username)
-2. Add file `.github/workflows/snake.yml` with:
+> **The workflow file is already included** in `.github/workflows/snake.yml` — just push this repo and run it!
+
+**Steps:**
+
+1. Push this repo to GitHub as `Redabouizer/Redabouizer`
+2. Go to **Settings** → **Actions** → **General** → set **Workflow permissions** to **Read and write**
+3. Go to the **Actions** tab → click **Generate Snake** on the left → click **Run workflow**
+4. Wait ~30 seconds, then refresh your profile page — the snake should appear!
+5. It will auto-regenerate every 12 hours via the cron schedule
+
+<br>
+
+**The workflow file (`.github/workflows/snake.yml`) contains:**
 
 ```yaml
 name: Generate Snake
+
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Redabouizer
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
@@ -353,7 +375,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-3. Run the workflow manually once from **Actions** tab
 </details>
 
 <br>
