@@ -27,102 +27,65 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ ABOUT ME ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ ABOUT ME (3D) ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="35"/>
-  About Me
-</h2>
-
-<!-- INTRO TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Passionate+Full-Stack+Developer+from+Morocco+🇲🇦;42+Network+Student+%7C+Software+Engineer;Building+scalable+web+solutions+with+modern+tech" alt="About Typing"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:EC4899&height=80&section=header&text=Welcome%20to%20my%203D%20Dimension&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
 
-<br>
-
-<!-- ABOUT CONTENT WITH GIF -->
-<table>
-<tr>
-<td width="55%">
-
-### 👨‍💻 Who I Am
-
-> *"I turn coffee into code and ideas into reality"*
-
-I'm a **Full-Stack Developer** passionate about creating elegant solutions to complex problems. Currently studying at **42 Network (1337 Khouribga)** and **EMSI Casablanca**, I combine academic knowledge with hands-on experience.
-
-### � Current Focus
-
-- 🔭 Building **production-ready web applications**
-- 🌱 Mastering **Cloud Architecture & DevOps**
-- 🤝 Contributing to **Open Source projects**
-- 📚 Learning **System Design & Microservices**
-
-### 💡 What I Bring
-
-- ✨ Clean, maintainable code
-- 🚀 Performance-optimized solutions
-- 🎨 User-centric design thinking
-- 🔧 Problem-solving mindset
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
-
-<br><br>
-
-<!-- QUICK STATS -->
-<img src="https://img.shields.io/badge/📍_Morocco-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/🎓_42_Network-EC4899?style=flat-square"/>
-<img src="https://img.shields.io/badge/💼_Full--Stack-F97316?style=flat-square"/>
-
-</td>
-</tr>
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h1>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/>
+        Salut, Je suis Reda!
+      </h1>
+      <p style="font-size: 1.2em;">
+        I'm a <b>Full-Stack Developer</b> who specializes in building high-performance, visually stunning digital experiences. I live at the intersection of <b>design</b> and <b>logic</b>.
+      </p>
+      <br>
+      <div align="left">
+        <img src="https://img.shields.io/badge/Status-Designing_the_Future-8B5CF6?style=for-the-badge&labelColor=1a1b27&logo=visualstudiocode"/>
+        <img src="https://img.shields.io/badge/Main_Stack-Full--Stack-EC4899?style=for-the-badge&labelColor=1a1b27&logo=react"/>
+      </div>
+    </td>
+    <td width="40%" align="center">
+      <!-- 🎥 3D ISOMETRIC ILLUSTRATION -->
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/developer.gif" width="300" alt="3D Dev Animation"/>
+    </td>
+  </tr>
 </table>
 
 <br>
 
-<!-- DEVELOPER CARD CODE BLOCK -->
-<details>
-<summary><b>⚡ View Developer Card</b></summary>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Redabouizer&theme=radical&utcOffset=1" width="100%"/>
+</p>
+
 <br>
 
-```typescript
-const reda: Developer = {
-  
-  identity: {
-    name: "Reda Bouizergane",
-    location: "Morocco 🇲🇦",
-    role: "Full-Stack Developer & Software Engineer"
-  },
+<!-- 3D FLOATING CARDS SECTION -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Role-Software_Engineer-8B5CF6?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-3D_Aesthetics-EC4899?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logic-System_Architecture-F97316?style=for-the-badge&logo=serverfault&logoColor=white" />
+</div>
 
-  education: [
-    "🎓 1337 Khouribga (42 Network)",
-    "📚 EMSI Casablanca (Honoris United Universities)"
-  ],
+<br>
 
-  expertise: {
-    languages: ["TypeScript", "JavaScript", "Python", "C/C++", "PHP"],
-    frontend:  ["React", "Next.js", "Redux", "Tailwind CSS"],
-    backend:   ["Node.js", "Express", "Django", "Laravel"],
-    database:  ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
-    devops:    ["Docker", "Git", "Linux", "Nginx", "CI/CD"]
-  },
-
-  softSkills: ["Problem Solving", "Team Collaboration", "Agile", "Communication"],
-
-  currentlyLearning: ["Cloud Architecture", "Kubernetes", "System Design"],
-
-  motto: "Code. Learn. Build. Repeat. 🚀"
-};
-```
-
+<details>
+  <summary><b>📂 Core Repositories & 3D Visualization</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redabouizer&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6" width="45%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Redabouizer&theme=radical" width="45%"/>
+  </p>
 </details>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
