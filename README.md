@@ -219,11 +219,13 @@ const reda = {
 
 <h2>
   <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="25">
-  Currently Vibing To
+  🎧 Currently Vibing To
 </h2>
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hqj7xvqhhyhw7ylfnfznvdqb5m&cover_image=true&theme=novatorem&bar_color=667eea&bar_color_cover=true" alt="Spotify" width="400"/>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hud3yeez53iqxuq2jm2usy2vfu&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=667eea" alt="Spotify Now Playing" width="400"/>
+  </a>
 </p>
 
 <!-- ═══════════════════ LET'S CONNECT ═══════════════════════════ -->
