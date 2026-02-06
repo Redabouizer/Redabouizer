@@ -224,7 +224,7 @@ const reda = {
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hud3yeez53iqxuq2jm2usy2vfu&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=667eea" alt="Spotify Now Playing" width="400"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hud3yeez53iqxuq2jm2usy2vfu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=667eea&bar_color_cover=false" alt="Spotify Now Playing" width="420"/>
   </a>
 </p>
 
