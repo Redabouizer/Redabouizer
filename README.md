@@ -6,9 +6,11 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:EC4899,100:F97316&height=300&section=header&text=Reda%20Bouizergane&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=🚀%20Full-Stack%20Developer%20•%20Software%20Engineer%20•%20Tech%20Innovator&descSize=18&descAlignY=62&stroke=ffffff&strokeWidth=1" width="100%" />
 
 <!-- ⌨️ TERMINAL TYPING EFFECT -->
+<br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%24+whoami;Software+Engineer+%7C+Full-Stack;%24+cat+status.txt;Building+Scalable+Solutions" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=%24+whoami;Software+Engineer+%7C+Full-Stack;%24+cat+status.txt;Building+Scalable+Solutions" alt="Terminal Typing" />
 </p>
+<br>
 
 <!-- 🏷️ PROFILE QUICK-LINKS & METRICS -->
 <p align="center">
