@@ -2,13 +2,27 @@
 <!-- ║       🚀 REDA BOUIZERGANE — PROFESSIONAL DEVELOPER PROFILE   ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!-- HEADER WAVE ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=280&section=header&text=Reda%20Bouizergane&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20│%20Software%20Engineer%20│%20Problem%20Solver&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+<!-- ANIMATED HEADER WITH PARTICLES -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,30&height=300&section=header&text=Reda%20Bouizergane&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20│%20Software%20Engineer%20│%20Problem%20Solver&descSize=18&descAlignY=55&descAlign=50&stroke=6C63FF&strokeWidth=2" width="100%" />
+
+<!-- ANIMATED MATRIX CODE RAIN -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Matrix SVG"/>
+</p>
 
 <!-- ─── ANIMATED TYPING INTRO ──────────────────────────────────── -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=%3E_%20Welcome+to+my+Digital+Workspace;%3E_%20Crafting+Code%2C+Building+Dreams" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=%3E_%20Welcome+to+my+Digital+Workspace;%3E_%20Crafting+Code%2C+Building+Dreams;%3E_%20Turning+Ideas+into+Reality" alt="Typing SVG" />
 </p>
+
+<br>
+
+<!-- ─── ANIMATED WAVE HAND + INTRO ────────────────────────────── -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hey there, I'm Reda!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <br>
 
@@ -26,29 +40,59 @@
 
 <br>
 
-<!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
   About Me
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </h2>
 
+<br>
+
+<!-- ANIMATED CODING GIF + INFO -->
+<table align="center" border="0">
+<tr>
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF"/>
+
+</td>
+<td width="50%">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=400&lines=%F0%9F%8E%93+42+Network+Student+%40+1337;%F0%9F%92%BC+Full-Stack+Developer;%F0%9F%9A%80+Building+Scalable+Solutions;%E2%98%95+Powered+by+Coffee" alt="About typing" />
+
+<br><br>
+
+- 🔭 Working on **Full-Stack Web Projects**
+- 🌱 Learning **Cloud Architecture & DevOps**
+- 💬 Ask me about **React, Node.js, Python, C**
+- ⚡ Fun fact: **I debug with console.log()**
+- 🎯 Goal: **Open Source Contributions**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- DEVELOPER CARD WITH ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+42+Network+Student+%40+1337+Khouribga;%F0%9F%92%BC+Full-Stack+Developer;%F0%9F%9A%80+Building+Scalable+Web+Solutions;%E2%98%95+Powered+by+Coffee+%26+Curiosity" alt="About typing" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Developer Animation"/>
 </p>
 
 <br>
 
-<!-- DEVELOPER CARD -->
+<!-- ANIMATED CODE BLOCK -->
 <table align="center">
 <tr>
 <td>
 
 ```js
-// 👨‍💻 Developer Profile
+// 👨‍💻 Loading Developer Profile...
 
 const redaBouizergane = {
     "📍 location": "Morocco 🇲🇦",
@@ -57,11 +101,13 @@ const redaBouizergane = {
         "university": "EMSI Casablanca (Honoris)"
     },
     "💼 role": "Full-Stack Developer & Software Engineer",
-    "🧠 philosophy": "Clean Code • Scalable Architecture • User-First",
-    "❤️ passions": ["Cloud ☁️", "DevOps 🔧", "AI/ML 🤖", "Open Source 💚"],
+    "🧠 philosophy": "Clean Code • Scalable • User-First",
+    "❤️ passions": ["Cloud ☁️", "DevOps 🔧", "AI/ML 🤖"],
     "🔄 routine": ["Code", "Debug", "Coffee", "Repeat"],
-    "😎 funFact": "I debug with console.log() and I'm proud of it!"
+    "😎 funFact": "console.log() is my best friend!"
 };
+
+console.log("✨ Profile Loaded Successfully!");
 ```
 
 </td>
@@ -70,41 +116,28 @@ const redaBouizergane = {
 
 <br>
 
-<!-- QUICK INFO CARDS -->
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎓 Education</h3>
-      <br>
-      <img src="https://img.shields.io/badge/1337-42_Network-000000?style=for-the-badge&logo=42&logoColor=white" alt="42"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/EMSI-Honoris_Universities-845EF7?style=for-the-badge" alt="EMSI"/>
-      <br><br>
-      <em>Passionate about building robust, scalable applications<br>and transforming complex problems into elegant solutions.</em>
-    </td>
-    <td align="center" width="50%">
-      <h3>⚡ Quick Facts</h3>
-      <br>
-      🔭 Building <strong>Full-Stack Web Applications</strong><br><br>
-      🌱 Mastering <strong>Cloud Architecture & DevOps</strong><br><br>
-      💬 Ask me about <strong>React, Node.js, Python, C</strong><br><br>
-      🎯 Mission: <strong>Impactful Open Source Contributions</strong><br><br>
-      ⚡ Superpower: <strong>Turning caffeine into code</strong>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 <!-- ═══════════════════ TECH STACK ══════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
   Tech Arsenal
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
 </h2>
+
+<br>
+
+<!-- ANIMATED TECH ICONS -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" alt="JavaScript"/>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="React"/>
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" alt="Node"/>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50" alt="Python"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" alt="Git"/>
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50" alt="VS Code"/>
+</p>
 
 <br>
 
@@ -157,7 +190,7 @@ const redaBouizergane = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/media/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
@@ -168,7 +201,7 @@ const redaBouizergane = {
 
 <br>
 
-<!-- SKILL ICONS VISUAL -->
+<!-- ANIMATED SKILL ICONS -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,php,bash,html,css,react,redux,nextjs,tailwind,bootstrap,sass&perline=8" alt="Skills Row 1" />
 </p>
@@ -178,7 +211,7 @@ const redaBouizergane = {
 
 <br>
 
-<!-- ═══════════ METHODOLOGIES (EXPANDED) ═══════════ -->
+<!-- ═══════════ METHODOLOGIES ═══════════ -->
 
 <h3 align="center">📋 Methodologies & Best Practices</h3>
 
@@ -189,24 +222,23 @@ const redaBouizergane = {
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logoColor=white" alt="REST API"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
   <img src="https://img.shields.io/badge/TDD-14B8A6?style=for-the-badge&logoColor=white" alt="TDD"/>
-  <img src="https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logoColor=black" alt="UML"/>
   <img src="https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge&logoColor=white" alt="OOP"/>
   <img src="https://img.shields.io/badge/Design_Patterns-845EF7?style=for-the-badge&logoColor=white" alt="Design Patterns"/>
   <img src="https://img.shields.io/badge/Clean_Code-00C9A7?style=for-the-badge&logoColor=white" alt="Clean Code"/>
   <img src="https://img.shields.io/badge/SOLID-6C63FF?style=for-the-badge&logoColor=white" alt="SOLID"/>
-  <img src="https://img.shields.io/badge/Microservices-FF9800?style=for-the-badge&logoColor=white" alt="Microservices"/>
 </p>
 
 <br>
 
-<!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 <!-- ══════════════════ 42 ACHIEVEMENTS ═════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/3oriNZoNvn73MZaFYk/giphy.gif" width="40">
   42 School Journey
+  <img src="https://media.giphy.com/media/3oriNZoNvn73MZaFYk/giphy.gif" width="40">
 </h2>
 
 <br>
@@ -219,49 +251,42 @@ const redaBouizergane = {
 
 <br>
 
-<!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 <!-- ══════════════════ GITHUB ANALYTICS ═════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   GitHub Analytics
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </h2>
 
 <br>
 
-<!-- STREAK STATS -->
+<!-- ANIMATED GITHUB STATS SNAKE -->
 <p align="center">
-  <a href="https://github.com/Redabouizer">
-    <img src="https://streak-stats.demolab.com?user=Redabouizer&theme=tokyonight&hide_border=true&border_radius=20&ring=6C63FF&fire=FF6B6B&currStreakLabel=00C9A7&background=0D1117" alt="GitHub Streak" width="60%"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Redabouizer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=20&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&ring_color=00C9A7" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Redabouizer&theme=tokyonight&hide_border=true&border_radius=20&ring=6C63FF&fire=FF6B6B&currStreakLabel=00C9A7&background=0D1117" alt="GitHub Streak" width="48%"/>
 </p>
 
 <br>
 
-<!-- GITHUB STATS & TOP LANGUAGES -->
+<!-- TOP LANGUAGES -->
 <p align="center">
-  <a href="https://github.com/Redabouizer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Redabouizer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=20&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&ring_color=00C9A7" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Redabouizer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redabouizer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=6C63FF" alt="Top Languages"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redabouizer&layout=donut-vertical&langs_count=10&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=6C63FF" alt="Top Languages" width="35%"/>
 </p>
 
 <br>
 
 <!-- TROPHIES -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Redabouizer&theme=algolia&no-frame=true&no-bg=true&column=7&row=1&margin-w=15&margin-h=15" alt="Trophy" width="100%"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Redabouizer&theme=algolia&no-frame=true&no-bg=true&column=7&row=1&margin-w=15&margin-h=15" alt="Trophy" width="100%"/>
 </p>
 
 <br>
 
-<!-- PROFILE SUMMARY CARDS -->
+<!-- 3D CONTRIBUTION CALENDAR -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redabouizer&theme=tokyonight" alt="Profile Details" width="90%" />
 </p>
@@ -276,47 +301,65 @@ const redaBouizergane = {
 
 <br>
 
-<!-- ACTIVITY GRAPH -->
+<!-- ANIMATED ACTIVITY GRAPH -->
 <p align="center">
-  <a href="https://github.com/Redabouizer">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Redabouizer&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFFFFF&area_color=00C9A7&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" alt="Activity Graph" width="98%"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Redabouizer&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFFFFF&area_color=00C9A7&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" alt="Activity Graph" width="98%"/>
 </p>
 
 <br>
 
-<!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
-<!-- ══════════════════ FEATURED PROJECTS ════════════════════════ -->
+<!-- ══════════════════ CONTRIBUTION SNAKE ═══════════════════════ -->
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="30">
-  Featured Projects
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="40">
+  Watch My Contributions Get Eaten!
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="40">
 </h2>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/Redabouizer?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/badge/🚀_Explore_All_My_Projects-6C63FF?style=for-the-badge&labelColor=1a1b27" alt="All Repos"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Redabouizer/Redabouizer/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
 
 <br>
 
-<!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+<!-- ══════════════════ SPOTIFY / NOW PLAYING ════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="40">
+  Coding Vibes
+  <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="40">
+</h2>
+
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="300" alt="Coding Music"/>
+</p>
+
+<br>
+
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 <!-- ══════════════════ CONNECT ══════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-  Let's Connect & Collaborate
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  Let's Connect
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 </h2>
 
 <br>
 
+<!-- ANIMATED SOCIAL ICONS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/reda-bouizergane" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -338,51 +381,20 @@ const redaBouizergane = {
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=%F0%9F%92%AC+Open+for+collaborations+and+opportunities!;%F0%9F%8C%9F+Let's+build+something+amazing+together!" alt="Connect Message"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=%F0%9F%92%AC+Open+for+collaborations!;%F0%9F%8C%9F+Let's+build+something+amazing!" alt="Connect Message"/>
 </p>
 
 <br>
 
-<!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ══════════════════ CONTRIBUTION SNAKE ═══════════════════════ -->
-
-<h2 align="center">🐍 Watch My Contributions Get Eaten!</h2>
-
-<br>
-
+<!-- ANIMATED HANDSHAKE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Redabouizer/Redabouizer/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://media.giphy.com/media/gqBWnCglboCQo/giphy.gif" width="200" alt="Handshake"/>
 </p>
 
 <br>
 
-<!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ══════════════════ CODING STATS ════════════════════════════ -->
-
-<h2 align="center">⏱️ Weekly Development Breakdown</h2>
-
-<br>
-
-<p align="center">
-
-```text
-JavaScript   ███████████████░░░░░░░░░   62.5%
-TypeScript   ██████░░░░░░░░░░░░░░░░░░   18.2%
-Python       ███░░░░░░░░░░░░░░░░░░░░░   10.1%
-C            ██░░░░░░░░░░░░░░░░░░░░░░    5.3%
-Other        █░░░░░░░░░░░░░░░░░░░░░░░    3.9%
-```
-
-</p>
-
-<br>
-
-<!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 <!-- ══════════════════ PHILOSOPHY ═══════════════════════════════ -->
 
@@ -397,6 +409,10 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 <br>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Thinking"/>
+</p>
+
+<p align="center">
   <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong>
 </p>
 
@@ -404,14 +420,16 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 
 <!-- ══════════════════ FOOTER ═══════════════════════════════════ -->
 
+<!-- ANIMATED FOOTER MESSAGE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Thanks+for+visiting+my+profile!;%F0%9F%9A%80+Let's+build+the+future+together!" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Thanks+for+visiting!;%F0%9F%9A%80+Let's+build+the+future+together!" alt="Footer Typing SVG" />
 </p>
 
 <br>
 
+<!-- ANIMATED HEART -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="50" alt="heart"/>
+  <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="80" alt="heart"/>
 </p>
 
 <p align="center">
@@ -426,5 +444,10 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 
 <br>
 
-<!-- FOOTER WAVE -->
+<!-- ANIMATED FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=150&section=footer&animation=twinkling" width="100%" />
+
+<!-- ANIMATED BOTTOM LINE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+</p>
