@@ -6,23 +6,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=280&section=header&text=Reda%20Bouizergane&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20│%20Software%20Engineer%20│%20Problem%20Solver&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- ─── ANIMATED TYPING INTRO ──────────────────────────────────── -->
-<div align="center">
-  <a href="https://github.com/redabouizergane">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%3E_%20Welcome+to+my+Digital+Workspace;%3E_%20Crafting+Code%2C+Building+Dreams" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=%3E_%20Welcome+to+my+Digital+Workspace;%3E_%20Crafting+Code%2C+Building+Dreams" alt="Typing SVG" />
+</p>
 
 <br>
 
 <!-- ─── ANIMATED BADGES ────────────────────────────────────────── -->
-<div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/redabouizergane?logo=github&style=for-the-badge&color=6C63FF&labelColor=1a1b27&logoColor=white)](https://github.com/redabouizergane?tab=followers)
-  [![GitHub Stars](https://img.shields.io/github/stars/redabouizergane?logo=github&style=for-the-badge&color=FF6B6B&labelColor=1a1b27&logoColor=white)](https://github.com/redabouizergane?tab=repositories&sort=stargazers)
-  [![Profile Views](https://komarev.com/ghpvc/?username=redabouizergane&style=for-the-badge&color=00C9A7&labelColor=1a1b27)](https://github.com/redabouizergane)
-  [![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Development-845EF7?style=for-the-badge&labelColor=1a1b27)](https://github.com/redabouizergane)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Redabouizer?tab=followers">
+    <img src="https://img.shields.io/github/followers/Redabouizer?logo=github&style=for-the-badge&color=6C63FF&labelColor=1a1b27&logoColor=white" alt="followers"/>
+  </a>
+  <a href="https://github.com/Redabouizer?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/Redabouizer?logo=github&style=for-the-badge&color=FF6B6B&labelColor=1a1b27&logoColor=white" alt="stars"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Redabouizer&style=for-the-badge&color=00C9A7&labelColor=1a1b27" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-845EF7?style=for-the-badge&labelColor=1a1b27" alt="Focus"/>
+</p>
 
 <br>
 
@@ -36,58 +36,63 @@
   About Me
 </h2>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=600&lines=🎓+42+Network+Student+@+1337+Khouribga;💼+Full-Stack+Developer;🚀+Building+Scalable+Web+Solutions;☕+Powered+by+Coffee+%26+Curiosity" alt="About typing" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+42+Network+Student+%40+1337+Khouribga;%F0%9F%92%BC+Full-Stack+Developer;%F0%9F%9A%80+Building+Scalable+Web+Solutions;%E2%98%95+Powered+by+Coffee+%26+Curiosity" alt="About typing" />
+</p>
 
 <br>
 
-<div align="center">
+<!-- DEVELOPER CARD -->
+<table align="center">
+<tr>
+<td>
 
-```typescript
-const redaBouizergane: Developer = {
-    location: "Morocco 🇲🇦",
-    education: {
-        school42: "1337 Khouribga (42 Network) 🎓",
-        university: "EMSI Casablanca (Honoris United Universities) 📚"
+```js
+// 👨‍💻 Developer Profile
+
+const redaBouizergane = {
+    "📍 location": "Morocco 🇲🇦",
+    "🎓 education": {
+        "42_network": "1337 Khouribga",
+        "university": "EMSI Casablanca (Honoris)"
     },
-    currentRole: "Full-Stack Developer & Software Engineer",
-    codePhilosophy: "Clean Code • Scalable Architecture • User-First Design",
-    passions: ["Cloud Computing ☁️", "DevOps 🔧", "AI/ML 🤖", "Open Source 💚"],
-    dailyRoutine: ["Code", "Debug", "Coffee", "Repeat ♻️"],
-    funFact: "I debug with console.log() and I'm proud of it! 😎",
+    "💼 role": "Full-Stack Developer & Software Engineer",
+    "🧠 philosophy": "Clean Code • Scalable Architecture • User-First",
+    "❤️ passions": ["Cloud ☁️", "DevOps 🔧", "AI/ML 🤖", "Open Source 💚"],
+    "🔄 routine": ["Code", "Debug", "Coffee", "Repeat"],
+    "😎 funFact": "I debug with console.log() and I'm proud of it!"
 };
 ```
 
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
 <!-- QUICK INFO CARDS -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🎓-Education-6C63FF?style=for-the-badge&labelColor=1a1b27" alt="Education"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/1337-42_Network-000000?style=for-the-badge&logo=42&logoColor=white" alt="42"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/EMSI-Honoris_Universities-845EF7?style=for-the-badge" alt="EMSI"/>
-        <br><br>
-        <em>Passionate about building robust, scalable applications<br>and transforming complex problems into elegant solutions.</em>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/⚡-Quick_Facts-FF6B6B?style=for-the-badge&labelColor=1a1b27" alt="Quick Facts"/>
-        <br><br>
-        🔭 Building <strong>Full-Stack Web Applications</strong><br><br>
-        🌱 Mastering <strong>Cloud Architecture & DevOps</strong><br><br>
-        💬 Ask me about <strong>React, Node.js, Python, C</strong><br><br>
-        🎯 Mission: <strong>Impactful Open Source Contributions</strong><br><br>
-        ⚡ Superpower: <strong>Turning caffeine into code</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎓 Education</h3>
+      <br>
+      <img src="https://img.shields.io/badge/1337-42_Network-000000?style=for-the-badge&logo=42&logoColor=white" alt="42"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/EMSI-Honoris_Universities-845EF7?style=for-the-badge" alt="EMSI"/>
+      <br><br>
+      <em>Passionate about building robust, scalable applications<br>and transforming complex problems into elegant solutions.</em>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚡ Quick Facts</h3>
+      <br>
+      🔭 Building <strong>Full-Stack Web Applications</strong><br><br>
+      🌱 Mastering <strong>Cloud Architecture & DevOps</strong><br><br>
+      💬 Ask me about <strong>React, Node.js, Python, C</strong><br><br>
+      🎯 Mission: <strong>Impactful Open Source Contributions</strong><br><br>
+      ⚡ Superpower: <strong>Turning caffeine into code</strong>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -164,11 +169,12 @@ const redaBouizergane: Developer = {
 <br>
 
 <!-- SKILL ICONS VISUAL -->
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,php,bash,html,css,react,redux,nextjs,tailwind,bootstrap,sass&perline=8" alt="Skills Row 1" />
-  <br><br>
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,mysql,postgres,mongodb,redis,docker,git,github,gitlab,linux,nginx,postman,vscode&perline=8" alt="Skills Row 2" />
-</div>
+</p>
 
 <br>
 
@@ -176,7 +182,7 @@ const redaBouizergane: Developer = {
 
 <h3 align="center">📋 Methodologies & Best Practices</h3>
 
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Agile-009FDA?style=for-the-badge&logoColor=white" alt="Agile"/>
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logoColor=white" alt="Scrum"/>
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
@@ -189,7 +195,7 @@ const redaBouizergane: Developer = {
   <img src="https://img.shields.io/badge/Clean_Code-00C9A7?style=for-the-badge&logoColor=white" alt="Clean Code"/>
   <img src="https://img.shields.io/badge/SOLID-6C63FF?style=for-the-badge&logoColor=white" alt="SOLID"/>
   <img src="https://img.shields.io/badge/Microservices-FF9800?style=for-the-badge&logoColor=white" alt="Microservices"/>
-</div>
+</p>
 
 <br>
 
@@ -205,11 +211,11 @@ const redaBouizergane: Developer = {
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/redabouizergane">
+<p align="center">
+  <a href="https://github.com/Redabouizer">
     <img src="https://badge.mediaplus.ma/greenbinary/rbouizer" alt="rbouizer's 42 stats" width="60%" />
   </a>
-</div>
+</p>
 
 <br>
 
@@ -227,8 +233,8 @@ const redaBouizergane: Developer = {
 
 <!-- STREAK STATS -->
 <p align="center">
-  <a href="https://github.com/redabouizergane">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=redabouizergane&theme=tokyonight&hide_border=true&border_radius=20&ring=6C63FF&fire=FF6B6B&currStreakLabel=00C9A7&background=0D1117" alt="GitHub Streak" width="60%"/>
+  <a href="https://github.com/Redabouizer">
+    <img src="https://streak-stats.demolab.com?user=Redabouizer&theme=tokyonight&hide_border=true&border_radius=20&ring=6C63FF&fire=FF6B6B&currStreakLabel=00C9A7&background=0D1117" alt="GitHub Streak" width="60%"/>
   </a>
 </p>
 
@@ -236,11 +242,11 @@ const redaBouizergane: Developer = {
 
 <!-- GITHUB STATS & TOP LANGUAGES -->
 <p align="center">
-  <a href="https://github.com/redabouizergane">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=redabouizergane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=20&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&ring_color=00C9A7" alt="GitHub Stats"/>
+  <a href="https://github.com/Redabouizer">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Redabouizer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=20&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&ring_color=00C9A7" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/redabouizergane">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redabouizergane&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=6C63FF" alt="Top Languages"/>
+  <a href="https://github.com/Redabouizer">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redabouizer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=6C63FF" alt="Top Languages"/>
   </a>
 </p>
 
@@ -249,31 +255,31 @@ const redaBouizergane: Developer = {
 <!-- TROPHIES -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=redabouizergane&theme=algolia&no-frame=true&no-bg=true&column=7&row=1&margin-w=15&margin-h=15" alt="Trophy" width="100%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Redabouizer&theme=algolia&no-frame=true&no-bg=true&column=7&row=1&margin-w=15&margin-h=15" alt="Trophy" width="100%"/>
   </a>
 </p>
 
 <br>
 
 <!-- PROFILE SUMMARY CARDS -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redabouizergane&theme=tokyonight" alt="Profile Details" width="90%" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redabouizer&theme=tokyonight" alt="Profile Details" width="90%" />
+</p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=redabouizergane&theme=tokyonight" alt="Repos per Language" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=redabouizergane&theme=tokyonight" alt="Most Commit Language" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=redabouizergane&theme=tokyonight&utcOffset=1" alt="Productive Time" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Redabouizer&theme=tokyonight" alt="Repos per Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Redabouizer&theme=tokyonight" alt="Most Commit Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Redabouizer&theme=tokyonight&utcOffset=1" alt="Productive Time" width="32%" />
 </p>
 
 <br>
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
-  <a href="https://github.com/redabouizergane">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=redabouizergane&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFFFFF&area_color=00C9A7&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" alt="Activity Graph" width="98%"/>
+  <a href="https://github.com/Redabouizer">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Redabouizer&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFFFFF&area_color=00C9A7&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" alt="Activity Graph" width="98%"/>
   </a>
 </p>
 
@@ -291,22 +297,11 @@ const redaBouizergane: Developer = {
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/redabouizergane/ai-task-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=redabouizergane&repo=ai-task-manager&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B" alt="AI Task Manager" />
+<p align="center">
+  <a href="https://github.com/Redabouizer?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/badge/🚀_Explore_All_My_Projects-6C63FF?style=for-the-badge&labelColor=1a1b27" alt="All Repos"/>
   </a>
-  <a href="https://github.com/redabouizergane/blockchain-voting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=redabouizergane&repo=blockchain-voting&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B" alt="Blockchain Voting" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/redabouizergane?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/badge/🚀_Explore_All_Projects-6C63FF?style=for-the-badge&labelColor=1a1b27" alt="All Repos"/>
-  </a>
-</div>
+</p>
 
 <br>
 
@@ -322,29 +317,29 @@ const redaBouizergane: Developer = {
 
 <br>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/reda-bouizergane" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/redabouizergane" target="_blank">
+  <a href="https://github.com/Redabouizer" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://gitlab.com/redabouizergane" target="_blank">
+  <a href="https://gitlab.com/Redabouizer" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:redabouizergane6@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
+</p>
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=💬+Open+for+collaborations+and+opportunities!;🌟+Let's+build+something+amazing+together!" alt="Connect Message"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=%F0%9F%92%AC+Open+for+collaborations+and+opportunities!;%F0%9F%8C%9F+Let's+build+something+amazing+together!" alt="Connect Message"/>
+</p>
 
 <br>
 
@@ -353,19 +348,13 @@ const redaBouizergane: Developer = {
 
 <!-- ══════════════════ CONTRIBUTION SNAKE ═══════════════════════ -->
 
-<h2 align="center">
-  🐍 Watch My Contributions Get Eaten!
-</h2>
+<h2 align="center">🐍 Watch My Contributions Get Eaten!</h2>
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/redabouizergane/redabouizergane/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/redabouizergane/redabouizergane/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/redabouizergane/redabouizergane/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Redabouizer/Redabouizer/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
+</p>
 
 <br>
 
@@ -374,15 +363,12 @@ const redaBouizergane: Developer = {
 
 <!-- ══════════════════ CODING STATS ════════════════════════════ -->
 
-<h2 align="center">
-  ⏱️ Weekly Development Breakdown
-</h2>
+<h2 align="center">⏱️ Weekly Development Breakdown</h2>
 
 <br>
 
-<div align="center">
+<p align="center">
 
-<!--START_SECTION:waka-->
 ```text
 JavaScript   ███████████████░░░░░░░░░   62.5%
 TypeScript   ██████░░░░░░░░░░░░░░░░░░   18.2%
@@ -390,9 +376,8 @@ Python       ███░░░░░░░░░░░░░░░░░░░�
 C            ██░░░░░░░░░░░░░░░░░░░░░░    5.3%
 Other        █░░░░░░░░░░░░░░░░░░░░░░░    3.9%
 ```
-<!--END_SECTION:waka-->
 
-</div>
+</p>
 
 <br>
 
@@ -401,51 +386,45 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 
 <!-- ══════════════════ PHILOSOPHY ═══════════════════════════════ -->
 
-<div align="center">
-  <h2>💭 Developer Philosophy</h2>
-  <br>
+<h2 align="center">💭 Developer Philosophy</h2>
+
+<br>
+
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="70%" />
-  <br><br>
-  <table>
-    <tr>
-      <td>
-        <em>"First, solve the problem. Then, write the code."</em>
-        <br><strong>— John Johnson</strong>
-      </td>
-      <td>
-        <em>"Code is like humor. When you have to explain it, it's bad."</em>
-        <br><strong>— Cory House</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+</p>
+
+<br>
+
+<p align="center">
+  <em>"First, solve the problem. Then, write the code."</em> — <strong>John Johnson</strong>
+</p>
 
 <br>
 
 <!-- ══════════════════ FOOTER ═══════════════════════════════════ -->
 
-<div align="center">
-  <br>
-  <a href="https://github.com/redabouizergane">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=✨+Thanks+for+visiting+my+profile!;🚀+Let's+build+the+future+together!" alt="Footer Typing SVG" />
-  </a>
-  <br><br>
-  
-  <!-- ANIMATED HEART -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Thanks+for+visiting+my+profile!;%F0%9F%9A%80+Let's+build+the+future+together!" alt="Footer Typing SVG" />
+</p>
+
+<br>
+
+<p align="center">
   <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="50" alt="heart"/>
-  
-  <br><br>
-  
-  <p>
-    <strong>Made with ❤️ and ☕ by Reda Bouizergane</strong>
-  </p>
-  
-  <br>
-  
-  <img src="https://komarev.com/ghpvc/?username=redabouizergane&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-  
-  <br><br>
-</div>
+</p>
+
+<p align="center">
+  <strong>Made with ❤️ and ☕ by Reda Bouizergane</strong>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Redabouizer&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<br>
 
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=150&section=footer&animation=twinkling" width="100%" />
