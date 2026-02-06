@@ -33,42 +33,98 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="35"/>
   About Me
 </h2>
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380"/>
+<!-- INTRO TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Passionate+Full-Stack+Developer+from+Morocco+🇲🇦;42+Network+Student+%7C+Software+Engineer;Building+scalable+web+solutions+with+modern+tech" alt="About Typing"/>
+</p>
 
 <br>
 
-- 🎓 **Education:** 42 Network (1337 Khouribga) & EMSI Casablanca
-- 💼 **Role:** Full-Stack Developer & Software Engineer
-- 🌍 **Location:** Morocco 🇲🇦
-- 🔭 **Working on:** Scalable Web Applications
-- 🌱 **Learning:** Cloud Architecture & DevOps
-- 💬 **Ask me about:** React, Node.js, Python, C/C++
-- ⚡ **Fun fact:** I debug with `console.log()` and coffee ☕
+<!-- ABOUT CONTENT WITH GIF -->
+<table>
+<tr>
+<td width="55%">
 
+### 👨‍💻 Who I Am
+
+> *"I turn coffee into code and ideas into reality"*
+
+I'm a **Full-Stack Developer** passionate about creating elegant solutions to complex problems. Currently studying at **42 Network (1337 Khouribga)** and **EMSI Casablanca**, I combine academic knowledge with hands-on experience.
+
+### � Current Focus
+
+- 🔭 Building **production-ready web applications**
+- 🌱 Mastering **Cloud Architecture & DevOps**
+- 🤝 Contributing to **Open Source projects**
+- 📚 Learning **System Design & Microservices**
+
+### 💡 What I Bring
+
+- ✨ Clean, maintainable code
+- 🚀 Performance-optimized solutions
+- 🎨 User-centric design thinking
+- 🔧 Problem-solving mindset
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+
+<br><br>
+
+<!-- QUICK STATS -->
+<img src="https://img.shields.io/badge/📍_Morocco-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎓_42_Network-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/💼_Full--Stack-F97316?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- DEVELOPER CARD CODE BLOCK -->
+<details>
+<summary><b>⚡ View Developer Card</b></summary>
 <br>
 
 ```typescript
-class Developer {
-  name = "Reda Bouizergane";
-  role = "Full-Stack Developer";
+const reda: Developer = {
   
-  skills = {
-    languages: ["JavaScript", "TypeScript", "Python", "C/C++", "PHP"],
-    frontend: ["React", "Next.js", "Redux", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "Django", "Laravel"],
-    database: ["PostgreSQL", "MongoDB", "Redis"],
-    devops: ["Docker", "Git", "Linux", "Nginx", "CI/CD"]
-  };
-  
-  code = () => "Building the future, one commit at a time �";
-}
+  identity: {
+    name: "Reda Bouizergane",
+    location: "Morocco 🇲🇦",
+    role: "Full-Stack Developer & Software Engineer"
+  },
+
+  education: [
+    "🎓 1337 Khouribga (42 Network)",
+    "📚 EMSI Casablanca (Honoris United Universities)"
+  ],
+
+  expertise: {
+    languages: ["TypeScript", "JavaScript", "Python", "C/C++", "PHP"],
+    frontend:  ["React", "Next.js", "Redux", "Tailwind CSS"],
+    backend:   ["Node.js", "Express", "Django", "Laravel"],
+    database:  ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
+    devops:    ["Docker", "Git", "Linux", "Nginx", "CI/CD"]
+  },
+
+  softSkills: ["Problem Solving", "Team Collaboration", "Agile", "Communication"],
+
+  currentlyLearning: ["Cloud Architecture", "Kubernetes", "System Design"],
+
+  motto: "Code. Learn. Build. Repeat. 🚀"
+};
 ```
 
-<br clear="both"/>
+</details>
+
+<br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -139,31 +195,26 @@ class Developer {
 
 <br>
 
-<!-- GITHUB STATS CARDS -->
+<!-- PROFILE DETAILS - MOST RELIABLE -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Redabouizer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=ffffff" alt="GitHub Stats" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=Redabouizer&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=F97316" alt="Streak" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redabouizer&theme=github_dark" alt="Profile Details" width="100%"/>
 </p>
 
-<!-- TOP LANGUAGES -->
+<!-- STATS ROW -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redabouizer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8" alt="Top Languages" width="50%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Redabouizer&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Redabouizer&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Redabouizer&theme=github_dark" width="32%"/>
+</p>
+
+<!-- PRODUCTIVE TIME -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Redabouizer&theme=github_dark&utcOffset=1" width="50%"/>
 </p>
 
 <!-- CONTRIBUTION GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Redabouizer&bg_color=0d1117&color=8B5CF6&line=EC4899&point=F97316&area=true&area_color=8B5CF6&hide_border=true" alt="Activity Graph" width="100%"/>
-</p>
-
-<!-- STATS SUMMARY CARDS -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redabouizer&theme=radical" alt="Profile Details" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Redabouizer&theme=radical" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Redabouizer&theme=radical" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Redabouizer&theme=radical&utcOffset=1" width="32%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Redabouizer&bg_color=0d1117&color=8B5CF6&line=EC4899&point=F97316&area=true&area_color=8B5CF6&hide_border=true&custom_title=📈%20Contribution%20Activity" alt="Activity Graph" width="100%"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
