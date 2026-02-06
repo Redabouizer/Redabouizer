@@ -169,25 +169,35 @@ const reda = {
   GitHub Statistics
 </h2>
 
-<!-- STATS ROW 1: Stats + Streak -->
+<!-- STATS + STREAK -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Redabouizer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=ffffff" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Redabouizer&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=764ba2" alt="Streak" height="165"/>
+  <a href="https://github.com/Redabouizer">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Redabouizer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  </a>
+  <a href="https://github.com/Redabouizer">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Redabouizer&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=764ba2&stroke=667eea" alt="Streak" height="170"/>
+  </a>
 </p>
 
-<!-- STATS ROW 2: Languages -->
+<!-- TOP LANGUAGES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redabouizer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea" alt="Top Languages" width="40%"/>
+  <a href="https://github.com/Redabouizer">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Redabouizer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&langs_count=8" alt="Top Languages" width="45%"/>
+  </a>
 </p>
 
 <!-- TROPHIES -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Redabouizer&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophy" width="100%"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Redabouizer&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophy"/>
+  </a>
 </p>
 
 <!-- CONTRIBUTION GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Redabouizer&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&area_color=764ba2&hide_border=true" alt="Activity Graph" width="100%"/>
+  <a href="https://github.com/Redabouizer">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Redabouizer&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&area_color=764ba2&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
+  </a>
 </p>
 
 <!-- PROFILE SUMMARY CARDS -->
@@ -209,7 +219,13 @@ const reda = {
 <h2 align="center">📊 3D Contribution Calendar</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Redabouizer/Redabouizer/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://skyline.github.com/Redabouizer/2024" target="_blank">
+    <img src="https://img.shields.io/badge/View_GitHub_Skyline_2024-667eea?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+  </a>
 </p>
 
 <!-- ═══════════════════ METRICS ═══════════════════ -->
@@ -219,12 +235,12 @@ const reda = {
 
 <h2>
   <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="25">
-  🎧 Currently Vibing To
+  🎧 Music
 </h2>
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hud3yeez53iqxuq2jm2usy2vfu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=667eea&bar_color_cover=false" alt="Spotify Now Playing" width="420"/>
+  <a href="https://open.spotify.com/user/31hud3yeez53iqxuq2jm2usy2vfu" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" height="40"/>
   </a>
 </p>
 
