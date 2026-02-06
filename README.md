@@ -175,7 +175,7 @@ const reda = {
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Redabouizer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
   </a>
   <a href="https://github.com/Redabouizer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Redabouizer&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=764ba2&stroke=667eea" alt="Streak" height="170"/>
+    <img src="https://streak-stats.demolab.com/?user=Redabouizer&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=764ba2" alt="Streak" height="170"/>
   </a>
 </p>
 
@@ -189,7 +189,7 @@ const reda = {
 <!-- TROPHIES -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Redabouizer&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Redabouizer&theme=radical&no-frame=true&column=4&row=2&margin-w=15&margin-h=15" alt="Trophy"/>
   </a>
 </p>
 
