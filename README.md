@@ -77,8 +77,8 @@
   <summary><b>📂 Core Insights & Language Ecosystem</b></summary>
   <br>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redabouizer&layout=donut&theme=radical&hide_border=true&bg_color=0D1117" width="48%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Redabouizer&theme=github_dark" width="48%"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Redabouizer&theme=radical&hide_border=true&layout=donut&bg_color=0D1117" width="48%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Redabouizer&theme=github_dark" width="48%"/>
   </p>
 </details>
 
