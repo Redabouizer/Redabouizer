@@ -24,6 +24,8 @@
   <img src="https://komarev.com/ghpvc/?username=Redabouizer&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
+---
+
 <h2 align="center">👨‍💻 About Me</h2>
 
 <table align="center">
@@ -50,6 +52,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 <div align="center">
   <h3>🚀 Key Skills</h3>
@@ -87,10 +91,14 @@
   </tr>
 </table>
 
+---
+
 <div align="center">
   <h3>🌟 Achievements</h3>
   <img src="https://badge.mediaplus.ma/greenbinary/rbouizer" alt="rbouizer's 42 stats" width="70%" />
 </div>
+
+---
 
 <div align="center">
   <h3>💡 Philosophy</h3>
@@ -101,6 +109,8 @@
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
+
+---
 
 <h2 align="center">🛠️ Technical Proficiencies</h2>
 
@@ -183,6 +193,8 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
+---
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
@@ -197,6 +209,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Redabouizer&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="GitHub Profile Trophy" />
 </p>
+
+---
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -245,6 +259,8 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
+---
+
 <h2 align="center">🤝 Professional Network</h2>
 
 <p align="center">
@@ -268,6 +284,8 @@
   <em><b>I value professional connections and collaborative opportunities.</b> Feel free to reach out for networking or project discussions!</em>
 </div>
 
+---
+
 <h2 align="center">💼 Professional Development</h2>
 
 <p align="center">
@@ -286,6 +304,8 @@
   <li>🔍 Constantly exploring new technologies and methodologies to improve software development practices</li>
 </ul>
 
+---
+
 <h2 align="center">🌟 Driving Innovation in Technology</h2>
 
 <div align="center">
@@ -299,3 +319,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Thank You GIF" width="200" />
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" />
+</p>
