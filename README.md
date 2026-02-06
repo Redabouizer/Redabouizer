@@ -51,7 +51,7 @@
     </td>
     <td width="40%" align="center" valign="middle">
       <!-- 🎥 CUSTOM 3D ISOMETRIC RENDER -->
-      <img src="./assets/about-me.png" width="350" alt="3D Dev Animation"/>
+      <img src="./assets/about_me_3d_render_1770390811474.png" width="350" alt="3D Dev Animation"/>
     </td>
   </tr>
 </table>
